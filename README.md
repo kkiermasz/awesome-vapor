@@ -43,6 +43,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [Google Cloud Provider](https://github.com/vapor-community/google-cloud-provider) – Interact with Google Cloud Platform APIs from your Vapor project.
 - ![v3](img/vapor-3.png) [Guardian](https://github.com/Jinxiansen/Guardian) – Modern rate-limiting middleware.
 - ![v3](img/vapor-3.png) [Imperial](https://github.com/vapor-community/Imperial) – Federated Authentication with OAuth providers.
+- ![v4](img/vapor-4.png) [InternationalizedVapor](https://github.com/kkiermasz/InternationalizedVapor) - Internationalizes your Vapor's HTTP requests 
 - ![v3](img/vapor-3.png) [JWT Keychain](https://github.com/nodes-vapor/jwt-keychain) – Easily scaffold a keychain using JWT for Vapor.
 - ![v3](img/vapor-3.png) [JWT Middleware](https://github.com/skelpo/JWTMiddleware) – Middleware to Authenticate and Authorize Requests in Vapor.
 - ![v3](img/vapor-3.png) [Leaf Error Middleware](https://github.com/brokenhandsio/leaf-error-middleware) – Serve up custom 404 and server error pages for your Vapor App.
